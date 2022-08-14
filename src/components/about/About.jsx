@@ -37,7 +37,7 @@ function About() {
           </div>
 
           <p>
-            My name is Nguyen Van Trinh. I am currently a student of Hanoi
+            My name is Nguyen Van Trinh. I am currently a student at Hanoi
             University of Science and Technology from Vietnam. I am trying my
             best to become a blockchain developer!
           </p>
