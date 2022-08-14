@@ -2,7 +2,7 @@
 
 This is a personal portfolio application that I have created using reactjs framework.
 
-Check out [My Portfolio Website](trinhnguyen.vercel.app).
+Check out [My Portfolio Website](https://trinhnguyen.vercel.app).
 
 # Used Libraries
 
