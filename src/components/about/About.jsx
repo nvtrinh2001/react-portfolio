@@ -39,7 +39,7 @@ function About() {
           <p>
             My name is Nguyen Van Trinh. I am currently a student of Hanoi
             University of Science and Technology from Vietnam. I am trying my
-            best to become a blockchain developer.
+            best to become a blockchain developer!
           </p>
 
           <a href="#contact" className="btn btn-primary">
