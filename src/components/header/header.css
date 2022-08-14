@@ -73,8 +73,12 @@ header {
 }
 
 @media screen and (max-width: 600px) {
+  .profile-img {
+    width: 65%;
+  }
+
   header {
-    height: 100vh;
+    height: 84vh;
   }
 
   .header__socials,
