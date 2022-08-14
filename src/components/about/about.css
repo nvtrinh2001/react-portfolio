@@ -105,6 +105,10 @@
     gap: 1rem;
   }
 
+  .about__me-link {
+    padding-bottom: 40rem;
+  }
+
   .about__content {
     text-align: center;
   }
