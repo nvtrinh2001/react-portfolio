@@ -37,10 +37,9 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-            dolorem ratione eum asperiores ab porro veniam corporis aliquid at
-            atque, quas iure autem voluptatem saepe neque illum, pariatur
-            voluptas error!
+            My name is Nguyen Van Trinh. I am currently a student of Hanoi
+            University of Science and Technology from Vietnam. I am trying my
+            best to become a blockchain developer.
           </p>
 
           <a href="#contact" className="btn btn-primary">
