@@ -1,0 +1,46 @@
+.achievement__container {
+  text-align: center;
+}
+
+.achievement__item {
+  width: 40%;
+  background: var(--color-bg-variant);
+  margin: 0 auto 1rem;
+  padding: 2rem;
+  border-radius: 2rem;
+  user-select: none;
+  height: auto;
+}
+
+.achievement__item-icon {
+  font-size: 2.5rem;
+  margin: 1rem;
+  color: var(--color-primary);
+}
+
+.achievement__item-desc,
+.achievement__item-year {
+  color: var(--color-light);
+  font-weight: 300;
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+
+/* ===== MEDIA QUERIES ===== */
+@media screen and (max-width: 1024px) {
+  .achievement__item {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .achievement__item {
+    width: var(--container-width-sm);
+  }
+
+  .achievement__item-desc,
+  .achievement__item-year {
+    width: var(--container-width-sm);
+  }
+}
