@@ -58,7 +58,11 @@ function Contact() {
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>+84 39 872 4435</h5>
-            <a href="https://wa.me/398724435" target="_blank" rel="noreferrer">
+            <a
+              href="https://wa.me/84398724435"
+              target="_blank"
+              rel="noreferrer"
+            >
               Send a message
             </a>
           </article>
