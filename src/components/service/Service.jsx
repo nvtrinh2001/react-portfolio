@@ -72,7 +72,7 @@ function Service() {
             <li className="service__item">
               <BiCheck className="service__item-icon" />
               <p>
-                Some related fields that I am currently interested in: NFTs,
+                Some related fields that I am currently interested in: KYCs,
                 DAOs, and Crypto Security
               </p>
             </li>
