@@ -22,14 +22,14 @@ const projectArray = [
   },
   {
     id: 3,
-    title: 'hardhat-lottery',
-    github: 'https://github.com/nvtrinh2001/hardhat-lottery',
+    title: 'hardhat-nft-marketplace',
+    github: 'https://github.com/nvtrinh2001/hardhat-nft-marketplace',
     img: img3,
   },
   {
     id: 4,
-    title: 'nextjs-lottery',
-    github: 'https://github.com/nvtrinh2001/nextjs-lottery',
+    title: 'nextjs-moralis-nft-marketplace',
+    github: 'https://github.com/nvtrinh2001/nextjs-moralis-nft-marketplace',
     img: img4,
   },
   {
